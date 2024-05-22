@@ -15,7 +15,7 @@ Algebraic Number Theory and Arithmetic Geometry
 ## Publications
 
 
-## Typography
+## Lecture Notes
 
 Year | Lecture |  Lecturer |
 -----|-------|--------
