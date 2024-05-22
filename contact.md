@@ -3,24 +3,18 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [cdevret@gmail.com](mailto:cdevret@gmail.com)
 
 ---
 
 ## Mailing Address
-
-> 221B, Baker Street
 >
-> London
+> İstanbul
 >
-> United Kingdom
+> Türkiye
 
 ---
 
 ## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Twitter](#)
+2. [Google+](#)
