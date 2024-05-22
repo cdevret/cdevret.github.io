@@ -14,28 +14,13 @@ Algebraic Number Theory and Arithmetic Geometry
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
 ## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Lecture |  
+Year | Lecture |  Lecturer |
 -----|-------|--------
-2023 | Dedekind Domains  | [link](lecturenotes/lecturenote1.pdf)
+2023 | Dedekind Domains  | Haleh Hamdi | [link](lecturenotes/lecturenote1.pdf)
 
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
