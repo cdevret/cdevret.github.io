@@ -23,11 +23,9 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
-Year | Award | Category
+Year | Lecture |  
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2023 | Dedekind Domains  | [link](lecturenotes/lecturenote1.pdf)
 
 Here is a horizontal rule
 
