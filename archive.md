@@ -2,4 +2,4 @@
 layout: default
 is_archive: true
 ---
-<img class="" src="photos/boun.jpg">
+<img class="profile-picture" src="photos/boun.jpg">
