@@ -21,6 +21,8 @@ Year | Lecture |  Lecturer |
 -----|-------|--------
 2023 | Dedekind Domains  | Haleh Hamdi | [link](lecturenotes/lecturenote1.pdf)
 
-
+## Presentations
+Year | Presentation 
+-----|-------------
+2024 | Diophantine m-tuples | [link](presentations/Diophantine_m_tuples_presentation.pdf)
 ## References
-
