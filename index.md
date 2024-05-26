@@ -26,5 +26,6 @@ Year | Lecture |  Lecturer |
 Year | Presentation |
 -----|------------- |
 2024 | Diophantine m-tuples | [link](presentations/Diophantine_m_tuples_presentation.pdf)
+2024 | Introduction to Ramsey Theory | [link](presentations/Ramsey_Theory_Presentation.pdf)
 
 ## References
