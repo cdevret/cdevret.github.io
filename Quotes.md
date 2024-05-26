@@ -1,6 +1,6 @@
 ---
 layout: default
-is_quotes: true
+is_Quotes: true
 ---
 
 Life is cruel, why should the afterlife be any different. -Davy Jones 
