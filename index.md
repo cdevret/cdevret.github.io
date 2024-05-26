@@ -25,4 +25,5 @@ Year | Lecture |  Lecturer |
 Year | Presentation 
 -----|-------------
 2024 | Diophantine m-tuples | [link](presentations/Diophantine_m_tuples_presentation.pdf)
+
 ## References
