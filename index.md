@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="photos/me.jpg">
+<img class="profile-picture" src="photos/me.jpg" />
 
 Hi! I graduated from Yildiz Techinal University, Department of Mathematics.
 
